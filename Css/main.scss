@@ -220,14 +220,14 @@ p.skills-text {
     height: auto;
     display: grid;
     grid-template: auto;
-    grid-gap: 25px;
+    grid-gap: 15px;
     background-color: white;
 }
 
 .portfolio>div {
     background-color: rgba(255, 255, 255, 0.8);
     text-align: center;
-    height: 220px;
+    height: 200px;
     font-size: 30px;
 }
 
@@ -352,8 +352,8 @@ h2.featured-text a {
 }
 
 .boxes img {
-    width: 340px;
-    height: 100%;
+    width: 100%;
+    height: 85%;
     border-radius: 5px;
 }
 
